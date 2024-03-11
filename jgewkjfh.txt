@@ -1,0 +1,4 @@
+
+java bin = un objet crée par le framwork
+
+Ilyas
